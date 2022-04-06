@@ -52,7 +52,7 @@ if pesel.isnumeric():
         year_1 = pesel[0]
         year_2 = pesel[1]
         year_birth = year_1 + year_2
-        if int(year_birth) < 23:
+        if int(year_birth) < 23:  # in 2023 it should be changed to 24 and so on
             print('Rok urodzenia:', '20' + year_birth)
         else:
             print('Rok urodzenia:', '19' + year_birth)
