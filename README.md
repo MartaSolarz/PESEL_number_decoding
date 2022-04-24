@@ -1,4 +1,4 @@
-# PESEL_number_decoding
+# PESEL number decoding #
 Reading the information contained in the PESEL number.
 
 ## Table of Contents: ##
