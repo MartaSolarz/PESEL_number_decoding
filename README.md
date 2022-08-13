@@ -15,6 +15,8 @@ The state system in Poland assigns each citizen a unique PESEL number at the tim
 - The programmed code first checks if the provided *PESEL number is correct* - it contains only digits and consists of exactly 11 digits. Otherwise, it informs the user that the given number is incorrect.
 - Then the code reads the gender, day, month and year of birth from the provided PESEL number.
 
+**UPDATE:** New functionality: the ability to enter the pesel number immediately in the command line. (13.08.2022 version)
+
 **Note:** people born after 1999 in the PESEL number have the number 20 added to the month number, hence, for example, a person born in May 2000 in the PESEL number has the month coded as 25, not 5.
 
 ### 3. More information ###
