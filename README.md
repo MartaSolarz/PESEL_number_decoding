@@ -21,4 +21,4 @@ The state system in Poland assigns each citizen a unique PESEL number at the tim
 
 More information on how the data in the PESEL number is encoded at the link: [More information](https://pl.wikipedia.org/wiki/PESEL?msclkid=c280547ab59311ecbdceca5de2e00528)
 
-**Author:** Marta Solarz
+*Author:* Marta Solarz
