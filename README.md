@@ -5,6 +5,7 @@ Reading the information contained in the PESEL number.
 1. General information about the project
 2. How the program works?
 3. More information
+4. Python modules used
 
 ### 1. General information about the project ###
 
@@ -22,5 +23,9 @@ The state system in Poland assigns each citizen a unique PESEL number at the tim
 ### 3. More information ###
 
 More information on how the data in the PESEL number is encoded at the link: [More information](https://pl.wikipedia.org/wiki/PESEL?msclkid=c280547ab59311ecbdceca5de2e00528)
+
+### 4. Python modules used ###
+
+- ```sys```
 
 *Author:* Marta Solarz
